@@ -18,4 +18,4 @@
 
 <img width="40%" align="center" src="https://skillicons.dev/icons?i=discord,instagram,discordjs,nodejs,lua,python,ae=7">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=%23AKUIOPOTOGOK)](https://git.io/typing-svg)
+##  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=%23AKUIOPOTOGOK)](https://git.io/typing-svg)
