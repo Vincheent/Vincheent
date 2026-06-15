@@ -12,14 +12,11 @@
 <samp>
 • Let me introduce myself, I'm Swenzy. I'm 18 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
 
-• You Should Come By [Here](https://discord.gg/njs) <br />
-• My [Website](https://swenzy.xyz) <br />
-
 </samp>
 
 ## Technologies I use
 
-<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,react,nodejs,express,python,mongodb&perline=7">
+<img width="40%" align="center" src="https://skillicons.dev/icons?i=discord,html,react,nodejs,express,python,mongodb&perline=7">
 
 ## My Stats
 ![](https://github-readme-stats.vercel.app/api?username=swenzyim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
