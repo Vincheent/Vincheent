@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'am+Vincheent)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%23AKUIOPOTOGOK)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -18,3 +17,5 @@
 ## Technologies I use
 
 <img width="40%" align="center" src="https://skillicons.dev/icons?i=discord,instagram,discordjs,nodejs,lua,python,ae=7">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&color=F7F7F7&width=435&lines=%23AKUIOPOTOGOK)](https://git.io/typing-svg)
