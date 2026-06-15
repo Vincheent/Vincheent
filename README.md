@@ -10,7 +10,7 @@
 ## About Me
 
 <samp>
-• Let me introduce myself, I'm Vincheent. I'm 18 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
+• Let me introduce myself. My name is Vincheent. I'm 18 years old. I'm a versatile developer with a deep interest in all aspects of software. Every day I continue to develop myself with new ideas and projects. My goal is to study engineering.<br /><br />
 
 </samp>
 
