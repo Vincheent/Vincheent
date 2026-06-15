@@ -1,6 +1,25 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'am+Vincheent)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
 
+<p align="center">
+ <a href="https://discord.com/users/1195760072068972577" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/Swenzyim" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31qc47ahcbbjmf6qw4if2cd23cjy?si=be5d491e459e4092" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<samp>
+• Let me introduce myself, I'm Swenzy. I'm 18 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
+
+• You Should Come By [Here](https://discord.gg/njs) <br />
+• My [Website](https://swenzy.xyz) <br />
+
+</samp>
+
+## Technologies I use
+
+<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,react,nodejs,express,python,mongodb&perline=7">
+
+## My Stats
+![](https://github-readme-stats.vercel.app/api?username=swenzyim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
