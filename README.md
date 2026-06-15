@@ -16,4 +16,4 @@
 
 ## Technologies I use
 
-<img width="40%" align="center" src="https://skillicons.dev/icons?i=discord,Android,discordjs,nodejs,lua,python,adobe=7">
+<img width="40%" align="center" src="https://skillicons.dev/icons?i=discord,instagram,discordjs,nodejs,lua,python,ae=7">
